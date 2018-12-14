@@ -1,0 +1,9 @@
+#LDmongoimport bash
+
+#At first, you need to set mongodb. 
+#LD data from GoogleGenomics
+#https://googlegenomics.readthedocs.io/en/latest/use_cases/linkage_disequilibrium/public_ld_datasets.html
+
+#JPT : chr22 LD (test file)
+
+#by BioinformaticsAndMe
